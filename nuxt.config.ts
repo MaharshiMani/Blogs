@@ -56,9 +56,9 @@ export default defineNuxtConfig({
         }
     },
     app: {
-        baseURL: '/blogs/',
+        baseURL: '/Blogs/',
         head: {
-            title: 'Divyansh Singh - Blogs',
+            title: 'Maharshi Mani Tripathi - Blogs',
             htmlAttrs: {
                 lang: 'en',
             },
