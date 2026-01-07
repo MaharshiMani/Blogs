@@ -22,3 +22,6 @@ Paragraph1:
 This is continuation of para1
 
 Paragraph2:
+
+Adding links
+[Link Text](https://www.github.com)
